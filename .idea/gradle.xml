@@ -12,15 +12,6 @@
           </set>
         </option>
       </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../../Telran/Java_Group11_Project/20200616_ArrayList_LinkedList_Demo" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/../../Telran/Java_Group11_Project/20200616_ArrayList_LinkedList_Demo" />
-          </set>
-        </option>
-      </GradleProjectSettings>
     </option>
   </component>
 </project>

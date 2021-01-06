@@ -12,7 +12,8 @@ public class FirstSeleniumTest {
     @BeforeMethod
     public void setUp() {
       //  System.setProperty("webdriver.chrome.driver", "/Users/natalialavrynenko/Desktop/ToolsQA/chromedriver");
-        wd = new ChromeDriver();
+       // wd = new ChromeDriver();
+        wd = new FirefoxDriver();
         wd.get("https://www.google.com/");
     }
 
